@@ -1,11 +1,22 @@
-👋 ¡Hola! Soy Javi
-Bienvenido a mi perfil de GitHub. Estoy empezando en el mundo del desarrollo y aquí iré subiendo mis primeros proyectos, ideas y aprendizajes.
+# 👋 ¡Hola! Soy Javier Torres Jiménez
 
-🚀 En lo que estoy trabajando
-Actualmente estoy aprendiendo sobre desarrollo web y programación en general. Me encanta experimentar, resolver problemas y seguir mejorando cada día.
+🎓 He finalizado el **Grado Medio de Sistemas Microinformáticos y Redes (SMR)** en el IES Fidiana (Córdoba).  
 
-📚 Tecnologías que estoy explorando
-HTML, CSS y JavaScript
+---
 
-💡 Objetivo
-Aprender, crear y compartir. Estoy abierto a colaborar, recibir feedback y crecer junto a la comunidad.
+## 🚀 ¿Qué encontrarás en este GitHub?
+
+Aquí iré subiendo algunos de mis proyectos y prácticas personales, tanto de desarrollo web como de otras áreas relacionadas con la informática.
+
+---
+
+## 📫 Contacto
+
+Si quieres hablar conmigo o colaborar:
+
+- ✉️ javitorres3393@gmail.com
+- 💼 https://github.com/javitorres3393
+
+---
+
+¡Gracias por visitar mi perfil! 😄
